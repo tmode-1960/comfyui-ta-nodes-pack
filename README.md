@@ -1,2 +1,2 @@
 # comfyui-ta-nodes-pack
-Some useful nodes for ComfyUI
+Some useful nodes for comfyui
