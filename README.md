@@ -1,4 +1,3 @@
 # comfyui-ta-nodes-pack
-Some useful nodes for comfyui
 
-Model loaders with an additional model name output
+Deprecated - please use https://github.com/tmode-1960/TA-ComfyUI-Nodes-Pack
